@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Campus Navigation</title>
+    <link rel="stylesheet" href="css/style.css" />
+  </head>
+  <body>
+    <header><h1>Campus Navigation</h1></header>
+    <main>
+      <section id="planner" class="controls" aria-label="Route controls">
+        <label for="from-search">From</label>
+        <input id="from-search" type="search" placeholder="Search start" />
+        <select id="from" aria-label="Starting location"></select>
+        <button id="swap" type="button">Swap</button>
+        <label for="to-search">To</label>
+        <input id="to-search" type="search" placeholder="Search destination" />
+        <select id="to" aria-label="Destination"></select>
+        <button id="search" type="button">Find route</button>
+        <button id="clear" type="button" class="secondary">Clear</button>
+        <p id="status" role="status" aria-live="polite">Loading campus map…</p>
+      </section>
+      <section id="route-screen" class="hidden" aria-live="polite">
+        <div class="route-header">
+          <div>
+            <span class="eyebrow">YOUR ROUTE</span>
+            <h2 id="route-title">Walking route</h2>
+          </div>
+          <button id="back-to-planner" type="button" class="secondary">
+            Plan another route
+          </button>
+        </div>
+        <section id="result">
+          <p id="summary"></p>
+          <ol id="stops"></ol>
+          <ul id="warnings"></ul>
+          <h3>Buildings along this path</h3>
+          <ul id="route-buildings"></ul>
+        </section>
+        <section class="map-card">
+          <div class="map-toolbar" aria-label="Map controls">
+            <button id="zoom-in" type="button" aria-label="Zoom in">+</button
+            ><button id="zoom-out" type="button" aria-label="Zoom out">−</button
+            ><button id="reset-map" type="button">Reset map</button>
+          </div>
+          <div class="map-legend" aria-label="Map legend">
+            <span><i class="legend-road"></i>Road</span
+            ><span><i class="legend-route"></i>Route</span
+            ><span><i class="legend-unknown"></i>Unknown distance</span>
+          </div>
+          <svg
+            id="map"
+            viewBox="0 0 1030 1280"
+            role="img"
+            aria-labelledby="map-title map-desc"
+          >
+            <title id="map-title">Campus map</title>
+            <desc id="map-desc">Campus roads and buildings.</desc>
+          </svg>
+        </section>
+      </section>
+    </main>
+    <script src="js/api.js"></script>
+    <script src="js/map.js"></script>
+    <script src="js/app.js"></script>
+  </body>
+</html>
