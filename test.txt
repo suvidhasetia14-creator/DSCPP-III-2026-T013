@@ -1,0 +1,102 @@
+| from | to | result |
+|---|---|---|
+| Badminton Court | Basketball Court | PASS |
+| Badminton Court | Boys Hostel | PASS |
+| Badminton Court | Boys Hostel 2 | PASS |
+| Badminton Court | Btech Block | PASS |
+| Badminton Court | CS/IT Block | PASS |
+| Badminton Court | Chanakya Block | PASS |
+| Badminton Court | Civil Block | PASS |
+| Badminton Court | Gate 1 | PASS |
+| Badminton Court | Gate 2 | PASS |
+| Badminton Court | Happiness Cafe | PASS |
+| Badminton Court | Hotel Management Block | PASS |
+| Badminton Court | Law Building | PASS |
+| Badminton Court | Main Ground | PASS |
+| Badminton Court | Mechanical Block | PASS |
+| Badminton Court | Param Lab | PASS |
+| Badminton Court | Parking | PASS |
+| Badminton Court | Quick Bite Cafe | PASS |
+| Badminton Court | Ravi Canteen | PASS |
+| Badminton Court | Santosh Library | PASS |
+| Badminton Court | Tuck Shop | PASS |
+| Basketball Court | Badminton Court | PASS |
+| Basketball Court | Boys Hostel | PASS |
+| Basketball Court | Boys Hostel 2 | PASS |
+| Basketball Court | Btech Block | PASS |
+| Basketball Court | CS/IT Block | PASS |
+| Basketball Court | Chanakya Block | PASS |
+| Basketball Court | Civil Block | PASS |
+| Basketball Court | Gate 1 | PASS |
+| Basketball Court | Gate 2 | PASS |
+| Basketball Court | Happiness Cafe | PASS |
+| Basketball Court | Hotel Management Block | PASS |
+| Basketball Court | Law Building | PASS |
+| Basketball Court | Main Ground | PASS |
+| Basketball Court | Mechanical Block | PASS |
+| Basketball Court | Param Lab | PASS |
+| Basketball Court | Parking | PASS |
+| Basketball Court | Quick Bite Cafe | PASS |
+| Basketball Court | Ravi Canteen | PASS |
+| Basketball Court | Santosh Library | PASS |
+| Basketball Court | Tuck Shop | PASS |
+| Boys Hostel | Badminton Court | PASS |
+| Boys Hostel | Basketball Court | PASS |
+| Boys Hostel | Boys Hostel 2 | PASS |
+| Boys Hostel | Btech Block | PASS |
+| Boys Hostel | CS/IT Block | PASS |
+| Boys Hostel | Chanakya Block | PASS |
+| Boys Hostel | Civil Block | PASS |
+| Boys Hostel | Gate 1 | PASS |
+| Boys Hostel | Gate 2 | PASS |
+| Boys Hostel | Happiness Cafe | PASS |
+| Boys Hostel | Hotel Management Block | PASS |
+| Boys Hostel | Law Building | PASS |
+| Boys Hostel | Main Ground | PASS |
+| Boys Hostel | Mechanical Block | PASS |
+| Boys Hostel | Param Lab | PASS |
+| Boys Hostel | Parking | PASS |
+| Boys Hostel | Quick Bite Cafe | PASS |
+| Boys Hostel | Ravi Canteen | PASS |
+| Boys Hostel | Santosh Library | PASS |
+| Boys Hostel | Tuck Shop | PASS |
+| Boys Hostel 2 | Badminton Court | PASS |
+| Boys Hostel 2 | Basketball Court | PASS |
+| Boys Hostel 2 | Boys Hostel | PASS |
+| Boys Hostel 2 | Btech Block | PASS |
+| Boys Hostel 2 | CS/IT Block | PASS |
+| Boys Hostel 2 | Chanakya Block | PASS |
+| Boys Hostel 2 | Civil Block | PASS |
+| Boys Hostel 2 | Gate 1 | PASS |
+| Boys Hostel 2 | Gate 2 | PASS |
+| Boys Hostel 2 | Happiness Cafe | PASS |
+| Boys Hostel 2 | Hotel Management Block | PASS |
+| Boys Hostel 2 | Law Building | PASS |
+| Boys Hostel 2 | Main Ground | PASS |
+| Boys Hostel 2 | Mechanical Block | PASS |
+| Boys Hostel 2 | Param Lab | PASS |
+| Boys Hostel 2 | Parking | PASS |
+| Boys Hostel 2 | Quick Bite Cafe | PASS |
+| Boys Hostel 2 | Ravi Canteen | PASS |
+| Boys Hostel 2 | Santosh Library | PASS |
+| Boys Hostel 2 | Tuck Shop | PASS |
+| Btech Block | Badminton Court | PASS |
+| Btech Block | Basketball Court | PASS |
+| Btech Block | Boys Hostel | PASS |
+| Btech Block | Boys Hostel 2 | PASS |
+| Btech Block | CS/IT Block | PASS |
+| Btech Block | Chanakya Block | PASS |
+| Btech Block | Civil Block | PASS |
+| Btech Block | Gate 1 | PASS |
+| Btech Block | Gate 2 | PASS |
+| Btech Block | Happiness Cafe | PASS |
+| Btech Block | Hotel Management Block | PASS |
+| Btech Block | Law Building | PASS |
+| Btech Block | Main Ground | PASS |
+| Btech Block | Mechanical Block | PASS |
+| Btech Block | Param Lab | PASS |
+| Btech Block | Parking | PASS |
+| Btech Block | Quick Bite Cafe | PASS |
+| Btech Block | Ravi Canteen | PASS |
+| Btech Block | Santosh Library | PASS |
+| Btech Block | Tuck Shop | PASS |
