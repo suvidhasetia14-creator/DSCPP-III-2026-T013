@@ -1,0 +1,37 @@
+id	name	type	x	y	notes
+gate_1	Gate 1	entrance	171	681	Bottom entrance
+gate_2	Gate 2	entrance	30	419	Left entrance
+tuck_shop	Tuck Shop	shop	10	305	
+chanakya_block	Chanakya Block	building	62	190	
+parking	Parking	area	62	382	Enclosed parking area
+mechanical_block	Mechanical Block	building	118	380	Inside parking area
+parent_lab	Param Lab	building	138	232	
+small_box_a	Hotel Management Block	building	50	322	
+small_box_b	Law Building	building	83	322	
+small_box_c	Quick Bite Cafe	cafe	120	322	
+santosh_library	Santosh Library	building	224	208	
+basketball_court	Basketball Court	court	236	95	
+civil_block	Civil Block	building	403	40	
+badminton_court	Badminton Court	court	560	202	
+btech_block	Btech Block	building	320	310	
+happiness_cafe	Happiness Cafe	cafe	556	335	
+ravi_canteen	Ravi Canteen	canteen	677	410	
+boys_hostel	Boys Hostel	hostel	818	490	
+boys_hostel_2	Boys Hostel 2	hostel	825	605	
+cs_it_block	CS/IT Block	building	950	1160	
+main_ground	Main Ground	open area	408	542	No paths connected (confirm)
+j_l1	J-L1	junction	30	308	Left corridor by Gate 2
+j_l2	J-L2	junction	52	308	Left corridor below Chanakya
+j_l3	J-L3	junction	133	308	Left corridor below Parent Lab
+j_l4	J-L4	junction	187	308	Left corridor at Santosh
+j_l5	J-L5	junction	240	308	Corridor beside Btech
+j_b1	J-B1	junction	240	402	Bottom corridor near Gate 1
+j_b2	J-B2	junction	318	405	Below Btech
+j_b3	J-B3	junction	402	408	Below Civil Block path
+j_b4	J-B4	junction	450	405	Near Happiness Cafe
+j_b5	J-B5	junction	622	410	Next to Ravi Canteen
+j_t1	J-T1	junction	402	170	Top junction (Civil, Badminton)
+j_t2	J-T2	junction	188	170	Top-left near Basketball
+j_r1	J-R1	junction	625	490	Next to Boys Hostel
+j_r2	J-R2	junction	627	620	Next to Boys Hostel 2
+j_r3	J-R3	junction	630	1065	Lower right, before CS/IT
