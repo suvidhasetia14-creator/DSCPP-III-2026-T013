@@ -1,6 +1,24 @@
 # Campus Navigation Web App
 
-A responsive campus map with SVG curved roads, searchable route controls, and a C++17 HTTP backend. Routing uses Dijkstra over validated directed and two-way CSV edges. Junctions are represented as normal graph nodes and can be highlighted by the UI.
+ responsive web-based campus navigation system designed to help users find the shortest route between locations on campus. The application combines an interactive SVG-based campus map with a C++17 backend to provide efficient and reliable route calculation.
+
+## Features
+
+Interactive Campus Map: Displays campus locations and curved roads using SVG graphics.
+
+Shortest Path Navigation: Uses Dijkstra's algorithm to calculate the shortest route between selected locations.
+
+Searchable Locations: Allows users to search for and select source and destination locations.
+
+Route Visualization: Highlights the calculated route directly on the campus map.
+
+Junction Support: Represents junctions as regular graph nodes, allowing routes to pass through intermediate points.
+
+Input Validation: Validates source and destination selections and handles invalid inputs.
+
+Flexible Road Connections: Supports both directed and two-way connections between campus locations.
+
+Responsive Interface: Provides a user-friendly layout across different screen sizes.
 
 ## Build and run
 ```sh
